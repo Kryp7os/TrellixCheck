@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrellixCheck", "TrellixCheck.csproj", "{FB538CC3-3B40-4F5C-9E14-2A883DEC0F93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB538CC3-3B40-4F5C-9E14-2A883DEC0F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB538CC3-3B40-4F5C-9E14-2A883DEC0F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB538CC3-3B40-4F5C-9E14-2A883DEC0F93}.Release|Any CPU.ActiveCfg = Release|x64
+		{FB538CC3-3B40-4F5C-9E14-2A883DEC0F93}.Release|Any CPU.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F6DC913-4FBC-41EB-8F02-1AB2B0FD34E5}
+	EndGlobalSection
+EndGlobal

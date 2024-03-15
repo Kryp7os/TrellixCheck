@@ -1,0 +1,15 @@
+C:\Users\MALDEV01\source\repos\TrellixCheck\bin\x64\Release\net6.0\TrellixCheck.exe
+C:\Users\MALDEV01\source\repos\TrellixCheck\bin\x64\Release\net6.0\TrellixCheck.deps.json
+C:\Users\MALDEV01\source\repos\TrellixCheck\bin\x64\Release\net6.0\TrellixCheck.runtimeconfig.json
+C:\Users\MALDEV01\source\repos\TrellixCheck\bin\x64\Release\net6.0\TrellixCheck.dll
+C:\Users\MALDEV01\source\repos\TrellixCheck\bin\x64\Release\net6.0\TrellixCheck.pdb
+C:\Users\MALDEV01\source\repos\TrellixCheck\obj\x64\Release\net6.0\TrellixCheck.csproj.AssemblyReference.cache
+C:\Users\MALDEV01\source\repos\TrellixCheck\obj\x64\Release\net6.0\TrellixCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MALDEV01\source\repos\TrellixCheck\obj\x64\Release\net6.0\TrellixCheck.AssemblyInfoInputs.cache
+C:\Users\MALDEV01\source\repos\TrellixCheck\obj\x64\Release\net6.0\TrellixCheck.AssemblyInfo.cs
+C:\Users\MALDEV01\source\repos\TrellixCheck\obj\x64\Release\net6.0\TrellixCheck.csproj.CoreCompileInputs.cache
+C:\Users\MALDEV01\source\repos\TrellixCheck\obj\x64\Release\net6.0\TrellixCheck.dll
+C:\Users\MALDEV01\source\repos\TrellixCheck\obj\x64\Release\net6.0\refint\TrellixCheck.dll
+C:\Users\MALDEV01\source\repos\TrellixCheck\obj\x64\Release\net6.0\TrellixCheck.pdb
+C:\Users\MALDEV01\source\repos\TrellixCheck\obj\x64\Release\net6.0\TrellixCheck.genruntimeconfig.cache
+C:\Users\MALDEV01\source\repos\TrellixCheck\obj\x64\Release\net6.0\ref\TrellixCheck.dll
